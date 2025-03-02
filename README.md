@@ -126,10 +126,3 @@ This PR adds an API fetcher for CVE data from NVD.
 ## 🔗 Related Issues
 Closes #15
 ```
-
----
-
-## **🎯 Why Follow This Convention?**
-✅ **Clear Git History** – Easier to track changes  
-✅ **Better Collaboration** – Team members understand commits and PRs  
-✅ **Changelog Automation** – Works with tools like semantic-release  
